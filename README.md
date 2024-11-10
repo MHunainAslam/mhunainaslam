@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hunain Aslam</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [DentalZorg](https://dashboard.dentalzorg.com/)
+- 🔭 I’m currently working on [Adalat Group ERP](https://dashboard.dentalzorg.com/)
 
 - 👨‍💻 All of my projects are available at [https://hunainaslam.vercel.app/](https://hunainaslam.vercel.app/)
 
